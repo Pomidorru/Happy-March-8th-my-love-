@@ -6,7 +6,6 @@
 Если ты с телефона, просто открой камеру и наведи на этот QR-код:
 
 <img src="<img width="317" height="315" alt="image" src="https://github.com/user-attachments/assets/fa57c353-32f8-47d2-9275-1f647be26e43" />
-" width="200" alt="QR-код для перехода на сайт">
 
 ---
 
