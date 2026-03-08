@@ -5,8 +5,7 @@
 
 Если ты с телефона, просто открой камеру и наведи на этот QR-код:
 
-<img src="qr-code.png" width="200" alt="<img width="317" height="315" alt="image" src="https://github.com/user-attachments/assets/9e7e8f4e-b04e-4137-bed8-fe0b7f578ac4" />
-">
+alt="image" src="https://github.com/user-attachments/assets/9e7e8f4e-b04e-4137-bed8-fe0b7f578ac4"
 
 
 
