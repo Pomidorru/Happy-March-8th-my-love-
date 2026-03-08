@@ -5,9 +5,10 @@
 
 Если ты с телефона, просто открой камеру и наведи на этот QR-код:
 
-alt="image" src="https://github.com/user-attachments/assets/9e7e8f4e-b04e-4137-bed8-fe0b7f578ac4"
+<img src="<img width="317" height="315" alt="image" src="https://github.com/user-attachments/assets/fa57c353-32f8-47d2-9275-1f647be26e43" />
+" width="200" alt="QR-код для перехода на сайт">
 
-
+---
 
 
 Чтобы увидеть само поздравление, просто нажмите на кнопку ниже:
